@@ -16,8 +16,8 @@ function About() {
           <Info />
           <p className="about__description">
             Full Stack Developer, I create web pages with UI / UX user interfce
-            and also create Web APIs for the Backend data Fetch.I have 5 month
-            of Industrial experience.
+            and also create Web APIs for the Backend data Fetch.I have more than
+            1 month of project experience.
           </p>
           <a
             download=""

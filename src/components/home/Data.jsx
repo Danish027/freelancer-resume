@@ -3,8 +3,8 @@ function Data() {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Mohammed Danish
-        {/* <svg
+        Mohammed Danish <span> </span>
+        <svg
           width="36"
           height="36"
           viewBox="0 0 48 48"
@@ -52,16 +52,12 @@ function Data() {
             d="M46.2745 22.28C46.0495 21.83 45.7495 21.53 45.3745 21.23C45.4495 21.305 45.5245 21.38 45.5245 21.53C46.7995 24.08 42.6745 26.405 40.1995 29.405C38.1745 31.88 35.9245 33.83 34.7995 36.455C29.9995 47.93 16.0495 47.93 10.1995 42.68C15.5245 48.68 30.5245 49.28 35.5495 37.205C36.6745 34.58 38.9245 32.63 40.9495 30.155C43.4245 27.155 47.5495 24.755 46.2745 22.28ZM32.3245 28.13C27.4495 26.33 18.7495 29.63 19.9495 38.405C19.9495 30.23 27.3745 28.205 31.4245 28.205C32.0245 28.13 32.3245 28.13 32.3245 28.13Z"
             fill="#EBA352"
           ></path>
-        </svg> */}
+        </svg>
       </h1>
       <h3 className="home__subtitle">Software Developer</h3>
       <p className="home_description">
         I am a skilled professional with a strong passion for creating efficient
         and innovative software solutions.
-        {/* I have
-        extensive experience in designing, developing, and maintaining software
-        applications, systems, and platforms using various programming languages
-        and software development methodologies. */}
       </p>
       <a href="#contact" className="button custome-button button-flex">
         Say Hello

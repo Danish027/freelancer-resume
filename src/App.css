@@ -70,6 +70,9 @@
   box-sizing: border-box;
   /* border: 1px solid black; */
 }
+::-webkit-scrollbar {
+  display: none;
+}
 
 html {
   scroll-behavior: smooth;
@@ -148,9 +151,9 @@ img {
 .button {
   display: inline-block;
   background-color: rgba(0, 0, 0, 0.825);
-  /* background-color: var(--title-color); */
+  background-color: var(--title-color);
   color: var(--container-color);
-  padding: 1.25rem 2rem;
+  padding: 1.25rem 1rem;
   font-weight: var(--font-medium);
 }
 .button:hover {

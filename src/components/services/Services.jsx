@@ -18,7 +18,7 @@ function Services() {
             <h3 className="services__title">
               Web Page <br /> Design
             </h3>
-            <span className="services__icon" onClick={() => toggleTab(1)}>
+            <span className="services__icon">
               View More
               <i className="uil uil-arrow-right services__button-icon"></i>
             </span>
@@ -31,10 +31,7 @@ function Services() {
               }
             >
               <div className="services__model-content">
-                <i
-                  className="uil uil-times services__modal-close"
-                  onClick={() => toggleTab(0)}
-                ></i>
+                <i className="uil uil-times services__modal-close"></i>
                 <h3 className="services__model-title">Product Designer</h3>
                 <p className="service__model-description">
                   Service with more than 3 years of Experiance. Providing
@@ -85,10 +82,7 @@ function Services() {
             </h3>
             <span className="services__icon">
               View More
-              <i
-                onClick={() => toggleTab(2)}
-                className="uil uil-arrow-right services__button-icon"
-              ></i>
+              <i className="uil uil-arrow-right services__button-icon"></i>
             </span>
 
             <div
@@ -99,10 +93,7 @@ function Services() {
               }
             >
               <div className="services__model-content">
-                <i
-                  onClick={() => toggleTab(0)}
-                  className="uil uil-times services__modal-close"
-                ></i>
+                <i className="uil uil-times services__modal-close"></i>
                 <h3 className="services__model-title">UI/UX Designer</h3>
                 <p className="service__model-description">
                   Service with more than 3 years of Experiance. Providing
@@ -153,10 +144,7 @@ function Services() {
             </h3>
             <span className="services__icon">
               View More
-              <i
-                onClick={() => toggleTab(3)}
-                className="uil uil-arrow-right services__button-icon"
-              ></i>
+              <i className="uil uil-arrow-right services__button-icon"></i>
             </span>
 
             <div
@@ -167,10 +155,7 @@ function Services() {
               }
             >
               <div className="services__model-content">
-                <i
-                  onClick={() => toggleTab(0)}
-                  className="uil uil-times services__modal-close"
-                ></i>
+                <i className="uil uil-times services__modal-close"></i>
                 <h3 className="services__model-title">Visual Designer </h3>
                 <p className="service__model-description">
                   Service with more than 3 years of Experiance. Providing

@@ -1,4 +1,5 @@
 import twitter_clone from "../../assets/twitter-clone.png";
+import invoiceapp from "../../assets/invoiceapp.png";
 import movie_studio from "../../assets/movie-studio.png";
 import portfolio from "../../assets/portfolio.png";
 import React from "react";
@@ -9,8 +10,53 @@ const Projects = () => {
     <div>
       <section className="skills section" id="projects">
         <h2 className="section__title">Projects</h2>
-        <span className="section__subtitle">The projects i build</span>
+        <span className="section__subtitle">The projects I build</span>
         <div className="container container_mobile">
+          {/* ----------------------------------- */}
+          <div className="skills__content">
+            <div className="project__flex">
+              <h3 className="skills__title mobile">Invoiceapp</h3>
+              <div className="project__img">
+                <img src={invoiceapp} alt="" />
+              </div>
+              <div className="project__links mobile">
+                <a
+                  href="https://github.com/Danish027/invoiceapp"
+                  target="_blank"
+                >
+                  <BsCodeSlash />
+                  Code
+                </a>
+                <a href="https://invoiceapp-xi.vercel.app/" target="_blank">
+                  <BsBroadcast />
+                  Live
+                </a>
+              </div>
+              <div className="project__details">
+                <h3 className="skills__title">Invoiceapp</h3>
+                <h3 className="project__description">
+                  A full-stack web application built with Next.js, Tailwind CSS,
+                  Prisma.io ORM, TypeScript, and Postgress, offering allows you
+                  to create and manage invoices easily. It provides features
+                  such as creating new invoices, generating estimates, and
+                  tracking billing information
+                </h3>
+                <div className="project__links">
+                  <a
+                    href="https://github.com/Danish027/invoiceapp"
+                    target="_blank"
+                  >
+                    <BsCodeSlash />
+                    Code
+                  </a>
+                  <a href="https://invoiceapp-xi.vercel.app/" target="_blank">
+                    <BsBroadcast />
+                    Live
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
           {/* ----------------------------------- */}
           <div className="skills__content">
             <div className="project__flex">

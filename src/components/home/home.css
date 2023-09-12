@@ -45,7 +45,8 @@
   margin-bottom: 3rem;
 }
 .home__img {
-  background: url(../../assets//Danish-3.jpg);
+  /* background: url(../../assets//Danish-3.jpg); */
+  background: url(../../assets//danish_img.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

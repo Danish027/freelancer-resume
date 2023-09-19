@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/freelancer-resume/static/css/main.98a6b378.css",
+    "main.js": "/freelancer-resume/static/js/main.4f4a6c1f.js",
+    "static/media/movie-studio.png": "/freelancer-resume/static/media/movie-studio.5948e451288648fe24a5.png",
+    "static/media/Resume.pdf": "/freelancer-resume/static/media/Resume.e6b3234c17c33e7b5be3.pdf",
+    "static/media/portfolio.png": "/freelancer-resume/static/media/portfolio.ae8a1859e90d96940264.png",
+    "static/media/danish_img.jpg": "/freelancer-resume/static/media/danish_img.311aac8475accc94a25f.jpg",
+    "static/media/invoiceapp.png": "/freelancer-resume/static/media/invoiceapp.76d133a837d93ca70bd0.png",
+    "static/media/twitter-clone.png": "/freelancer-resume/static/media/twitter-clone.0ca56db8cdfabd21a2d2.png",
+    "index.html": "/freelancer-resume/index.html",
+    "main.98a6b378.css.map": "/freelancer-resume/static/css/main.98a6b378.css.map",
+    "main.4f4a6c1f.js.map": "/freelancer-resume/static/js/main.4f4a6c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a6b378.css",
+    "static/js/main.4f4a6c1f.js"
+  ]
+}

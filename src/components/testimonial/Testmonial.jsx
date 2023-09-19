@@ -10,7 +10,7 @@ import { Pagination } from "swiper";
 
 function Testmonial() {
   return (
-    <div className="testimoniail section container">
+    <div className="testimoniail section container" id="testimonials">
       <h2 className="section__title">My Clinet Say</h2>
       <span className="section__subtitle">Testimonial</span>
       <Swiper

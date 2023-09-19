@@ -54,7 +54,7 @@ function Data() {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Software Developer</h3>
+      <h3 className="home__subtitle">Software Developer / Freelancer</h3>
       <p className="home_description">
         I am a skilled professional with a strong passion for creating efficient
         and innovative software solutions.

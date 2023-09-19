@@ -15,7 +15,7 @@ function Contact() {
               <i className="bx bx-mail-send content__card-icon"></i>
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">
-                mohammeddanish.dev@gmail.com
+                danishqes0786@gmail.com
               </span>
               <a href="danishqes0786@gmail.com" className="contact__button">
                 Write Me{" "}

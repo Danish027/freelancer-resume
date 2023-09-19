@@ -166,7 +166,7 @@ const Projects = () => {
 
           <div className="skills__content">
             <div className="project__flex">
-              <h3 className="skills__title mobile">Portfolio</h3>
+              <h3 className="skills__title mobile">Freelancer Resume</h3>
               <div className="project__img">
                 <img src={portfolio} alt="" />
               </div>
@@ -187,9 +187,9 @@ const Projects = () => {
                 </a>
               </div>
               <div className="project__details">
-                <h3 className="skills__title">Portfolio</h3>
+                <h3 className="skills__title">Freelancer Resume</h3>
                 <h3 className="project__description">
-                  A professional and user-focused portfolio showcasing projects
+                  A professional and user-focused resume showcasing projects
                   built with React, JavaScript, Redux, and SCSS, demonstrating
                   clean code, seamless navigation, and interactive design to
                   highlight skills and achievements effectively.
